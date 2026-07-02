@@ -1,2 +1,3 @@
 #!/bin/bash
-touch "$(printf "\\\\\\'\"Best School\"'\\\\\\$\\?***:)")"echo "Best School" > "$(printf "\\\\\\'\"Best School\"'\\\\\\$\\?***:)"
+touch "$(printf "\\\\\\'\"Best School\"'\\\\\\$\\?***:)")"
+echo "Best School" > "$(printf "\\\\\\'\"Best School\"'\\\\\\$\\?***:)"
